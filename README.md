@@ -1,4 +1,4 @@
-# 💫 About Me:
+#
  Hi, I'm Sneha 👋  <br><br>🎓 Electrical Engineering Student  <br>🤖 Artificial Intelligence • Machine Learning • Deep Learning  <br>🔬 Research Interests: ML, DL & Computer Vision  <br>⚙️ Semiconductor Technologies & Core Electronics  <br>📍 India 
 
 
