@@ -1,6 +1,20 @@
 #
  Hi, I'm Sneha 👋  <br><br>🎓 Electrical Engineering Student  <br>🤖 Artificial Intelligence • Machine Learning • Deep Learning  <br>🔬 Research Interests: ML, DL & Computer Vision  <br>⚙️ Semiconductor Technologies & Core Electronics  <br>📍 India 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+<div align="center">
+
+🎓 <b>Electrical Engineering Student</b><br>
+🤖 <b>Artificial Intelligence</b> • <b>Machine Learning</b> • <b>Deep Learning</b><br>
+🔬 <b>Research Interests:</b> ML, DL & Computer Vision<br>
+⚙️ <b>Semiconductor Technologies</b> & Core Electronics  
+
+<br>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40px"/>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Chip.gif" width="40px"/>
+
+</div>
 
 
 ## 🌐 Socials:
