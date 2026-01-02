@@ -44,15 +44,11 @@
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SnehaPandit-book&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-# 🎵 My Music Taste
+# 🎵 🎧 Vibes:
 
 <img align="right" alt="GIF" height="350px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31etj7txiphupd67dcrhf42wegqa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31etj7txiphupd67dcrhf42wegqa&count=5" alt="Spotify recently played" />
-  </a>
-</div>
+
 
 
 
@@ -61,11 +57,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-## 🎧 Vibes & Words
 
-| 🎵 Recently Played | ✍️ Quote |
-|-------------------|---------|
-| <a href="https://open.spotify.com/user/31etj7txiphupd67dcrhf42wegqa"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31etj7txiphupd67dcrhf42wegqa&count=5" width="380"/></a> | *“The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by creativity, speed, and problem-solving ability.”*<br><br>— **Randall E. Stross** |
+
 
 
 ---
