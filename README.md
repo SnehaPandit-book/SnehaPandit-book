@@ -24,8 +24,7 @@
 
 <br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"/>
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40px"/>
+
 
 
 </div>
