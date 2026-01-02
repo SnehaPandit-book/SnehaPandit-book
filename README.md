@@ -11,7 +11,12 @@
         
 
        
- 📍 India 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="200px" alt="World GIF" />
+</p>
+
+<h1 align="center">📍 India</h1>
+
                                         <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 <div align="center">
 
