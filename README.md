@@ -60,6 +60,14 @@
 ### ✍️ Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+
+## 🎧 Vibes & Words
+
+| 🎵 Recently Played | ✍️ Quote |
+|-------------------|---------|
+| <a href="https://open.spotify.com/user/31etj7txiphupd67dcrhf42wegqa"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31etj7txiphupd67dcrhf42wegqa&count=5" width="380"/></a> | *“The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by creativity, speed, and problem-solving ability.”*<br><br>— **Randall E. Stross** |
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=SnehaPandit-book&icon=2&color=0)](https://visitcount.itsvg.in)
 
