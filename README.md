@@ -8,7 +8,22 @@
 <h1 align="center" style="font-size:48px;">
   It’s Me! Sneha 😃
 </h1>
-        
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" alt="anime coding gif"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
        
 
