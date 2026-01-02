@@ -1,4 +1,30 @@
 #
+<div align="center">
+  <table>
+    <tr>
+      <!-- GIF SIDE -->
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+      </td>
+
+      <!-- TEXT SIDE -->
+      <td align="left">
+        <h1>
+          HEY, I’m <span style="font-size:48px;">Sneha</span> 👋
+        </h1>
+        <h2 style="font-family: 'Courier New', monospace;">
+          📍 India
+        </h2>
+
+        🎓 <b>Electrical Engineering Student</b><br>
+        🤖 <b>Artificial Intelligence</b> • Machine Learning • Deep Learning<br>
+        🔬 Research Interests: ML, DL & Computer Vision<br>
+        ⚙️ Semiconductor Technologies & Core Electronics
+      </td>
+    </tr>
+  </table>
+</div>
+
  Hi, I'm Sneha 👋 📍 India 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 <div align="center">
