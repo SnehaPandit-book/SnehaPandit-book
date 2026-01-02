@@ -1,5 +1,5 @@
 #
- Hi, I'm Sneha 👋  <br><br>🎓 Electrical Engineering Student  <br>🤖 Artificial Intelligence • Machine Learning • Deep Learning  <br>🔬 Research Interests: ML, DL & Computer Vision  <br>⚙️ Semiconductor Technologies & Core Electronics  <br>📍 India 
+ Hi, I'm Sneha 👋 📍 India 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 <div align="center">
 
