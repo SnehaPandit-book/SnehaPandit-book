@@ -46,7 +46,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=SnehaPandit-book&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 # 🎵 🎧 Vibes:
 
-<img align="right" alt="GIF" height="350px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="left" alt="GIF" height="350px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
 
