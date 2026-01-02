@@ -43,7 +43,17 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SnehaPandit-book&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+# 🎵 My Music Taste:
 
+<img align="right" alt="GIF" height="350px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<div align="left">
+  <a href="https://open.spotify.com/user/31sv2ux6rfii7e46pam36etrtd4m">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sv2ux6rfii7e46pam36etrtd4m&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+###
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
