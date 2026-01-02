@@ -1,5 +1,13 @@
 #
 
+<h1 align="center" style="font-size:52px;">
+  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;Pupils/&gt;!
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="36px"/>
+</h1>
+
+<h1 align="center" style="font-size:48px;">
+  It’s Me! Sneha 😃
+</h1>
         
 
  Hi, I'm Sneha 👋      
