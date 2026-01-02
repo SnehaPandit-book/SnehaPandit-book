@@ -14,7 +14,7 @@
 
 <h1 align="center">📍 India</h1>
 
-                                        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+                                      
 <div align="center">
 
 🎓 <b>Electrical Engineering Student</b><br>
