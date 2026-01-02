@@ -1,18 +1,19 @@
 name: Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: SnehaPandit-book
@@ -20,8 +21,8 @@ jobs:
             output/snake.svg
             output/snake-dark.svg?palette=github-dark
 
-      - name: Commit Snake
+      - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate contribution snake"
           add: "output"
+          message: "Generate snake animation"
