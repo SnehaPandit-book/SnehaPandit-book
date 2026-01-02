@@ -74,6 +74,16 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaPandit-book&theme=midnight-purple&hide_border=false&layout=compact)
 
+## 🐍 My Snake is Hungry 🥲
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/SnehaPandit-book/SnehaPandit-book/main/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/SnehaPandit-book/SnehaPandit-book/main/output/snake.svg" />
+  <img alt="github-snake"
+       src="https://raw.githubusercontent.com/SnehaPandit-book/SnehaPandit-book/main/output/snake.svg" />
+</picture>
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SnehaPandit-book&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
