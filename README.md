@@ -26,12 +26,12 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"/>
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40px"/>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Chip.gif" width="40px"/>
+
 
 </div>
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snehkris._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-pandit-53063633b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sneha.pandit.24-031@ee.agemc.in) 
 
 # 💻 Tech Stack:
@@ -43,7 +43,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SnehaPandit-book&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaPandit-book&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SnehaPandit-book&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 # 🎵 My Music Taste
 
