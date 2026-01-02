@@ -47,8 +47,8 @@
 
 <img align="right" alt="GIF" height="350px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <div align="left">
-  <a href="https://open.spotify.com/user/31sv2ux6rfii7e46pam36etrtd4m">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sv2ux6rfii7e46pam36etrtd4m&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31etj7txiphupd67dcrhf42wegqa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31etj7txiphupd67dcrhf42wegqa&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
