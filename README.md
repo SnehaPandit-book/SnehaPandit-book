@@ -53,6 +53,10 @@
 
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnehaPandit-book&theme=aura_dark">
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/SnehaPandit-book/SnehaPandit-book/output/github-contribution-grid-snake-dark.svg" />
